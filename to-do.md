@@ -1,0 +1,11 @@
+
+- [ ] Add in pathfinding for units
+- [ ] Add in object avoidance
+- [ ] Add in work stats for units
+- [ ] Add in menu
+  - [ ] User should be able to select a unit by clicking on their profile. 
+  - [ ] User should be able to select a unit by clicking on them. 
+  - [ ] User should be able to find work items by scrolling over them.
+- [ ] User should be able to hire more workers 
+- [ ] User should be able to fire workers
+- [ ] brain storm gameplay loop for realtime format.
